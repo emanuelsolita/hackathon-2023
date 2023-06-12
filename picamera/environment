@@ -1,0 +1,3 @@
+landing='https://external84c5.blob.core.windows.net/landing?sp=rwdl&st=2022-10-05T15:26:08Z&se=2024-10-05T23:26:08Z&spr=https&sv=2021-06-08&sr=c&sig=lYSncQQZ%2FqUWCpQrtH1RnerJl1vgBFrpLLsdECM9EAo%3D'
+cognitive_services_endpoint='https://cognitiveservices98d2.cognitiveservices.azure.com/'
+cognitive_services_key='34ef374f0c764014892627873f5532b6'
